@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-image: linear-gradient(to right top, lightblue, blue, black, blue, aqua);
+    background: cover;
+}
+
+.main_div {
+    background: rgba(240, 242, 247, 0.8);
+    float: none;
+    border-radius: 15px;
+}
+
+#title {
+    font-weight: bold;
+    font-style: inherit;
+    font-size: 45px;
+}
+
+#lab {
+    color: red;
+    font-size: 20px;
+}
+
+label {
+    font-size: 10px;
+    color: blue;
+    margin-right: 750px;
+    width: 350px;
+}
+
+#getit {
+    width: 20%;
+    border-radius: 15px;
+    background-color: crimson;
+}
